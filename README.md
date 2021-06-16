@@ -21,10 +21,16 @@ __안현진,배선영,이상현,양소영__
 
 #### 문서 관리 : <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white">
 #### 일정 관리 : <img src="https://img.shields.io/badge/trello-0052CC?style=flat-square&logo=trello&logoColor=white">
+<hr>
 
 ### 화면 이미지
-1. 메인 화면
-![image](https://user-images.githubusercontent.com/46213180/122176760-ecb08980-cebf-11eb-9b81-76eaa7297045.png)
+<div>
+    <div>
+        <span>1. 메인 화면</span>    
+        ![image](https://user-images.githubusercontent.com/46213180/122176760-ecb08980-cebf-11eb-9b81-76eaa7297045.png)
+    </div>
+</div>
+
 2. 텍스트 검색
 ![image](https://user-images.githubusercontent.com/46213180/122176882-0b168500-cec0-11eb-834e-7819078d145c.png)
 3. 이미지 검색
