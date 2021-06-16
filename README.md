@@ -27,7 +27,7 @@ __안현진,배선영,이상현,양소영__
 
 <div>
     <span align="center">
-        <img src="https://user-images.githubusercontent.com/46213180/122176760-ecb08980-cebf-11eb-9b81-76eaa7297045.png" height="500"><br>
+        <img src="https://user-images.githubusercontent.com/46213180/122176760-ecb08980-cebf-11eb-9b81-76eaa7297045.png" width="100%"><br>
         1. 메인화면
     </span>
     <span align="center">
