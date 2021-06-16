@@ -19,8 +19,8 @@ __안현진,배선영,이상현,양소영__
     <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white">
 </p>
 
-#### 문서 관리 : slack
-#### 일정 관리 : trello
+#### 문서 관리 : <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white">
+#### 일정 관리 : <img src="https://img.shields.io/badge/trello-0052CC?style=flat-square&logo=trello&logoColor=white">
 
 ### 0. 화면 이미지
 <img src="https://user-images.githubusercontent.com/48993188/78004974-df1fea00-7375-11ea-85e7-32cc78626c27.jpg" width="30%" height="450"><img src="https://user-images.githubusercontent.com/48993188/78005333-61a8a980-7376-11ea-8711-4f311b5aa713.jpg" width="30%" height="450"><img src="https://user-images.githubusercontent.com/48993188/78005422-80a73b80-7376-11ea-8e7e-06777d5756f7.jpg" width="30%" height="450">
