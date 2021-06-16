@@ -2,7 +2,23 @@
 
 ## CodingHedgehog (코딩하는 고슴도치)
 
-### __안현진,배선영,이상현,양소영__
+### 팀원 
+__안현진,배선영,이상현,양소영__
+
+### 기술 스택
+<p>
+    <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
+      <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <br>
+      <img src="https://img.shields.io/badge/amazon aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
+    <img src="https://img.shields.io/badge/google cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
+      <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white">
+</p>
 
 #### 문서 관리 : slack
 #### 일정 관리 : trello
