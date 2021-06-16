@@ -24,8 +24,10 @@ __안현진,배선영,이상현,양소영__
 <hr>
 
 ### 화면 이미지
-1. 메인 화면<br>
+<div align="center">
 <img src="https://user-images.githubusercontent.com/46213180/122176760-ecb08980-cebf-11eb-9b81-76eaa7297045.png" height="500"><br>
+1. 메인화면
+</div>
 2. 텍스트 검색<br>
 <img src="https://user-images.githubusercontent.com/46213180/122176882-0b168500-cec0-11eb-834e-7819078d145c.png" height="500"><br>
 3. 이미지 검색<br>
