@@ -27,15 +27,15 @@ __안현진,배선영,이상현,양소영__
 
 <div>
     <span align="center">
-        <img src="https://user-images.githubusercontent.com/46213180/122176760-ecb08980-cebf-11eb-9b81-76eaa7297045.png" width="30%"><br>
+        <img src="https://user-images.githubusercontent.com/46213180/122176760-ecb08980-cebf-11eb-9b81-76eaa7297045.png" width="25%"><br>
         1. 메인화면
     </span>
     <span align="center">
-        <img src="https://user-images.githubusercontent.com/46213180/122176882-0b168500-cec0-11eb-834e-7819078d145c.png" width="30%"><br>
+        <img src="https://user-images.githubusercontent.com/46213180/122176882-0b168500-cec0-11eb-834e-7819078d145c.png" width="25%"><br>
         2. 텍스트 검색
     </span>
     <span align="center">
-        <img src="https://user-images.githubusercontent.com/46213180/122176926-15d11a00-cec0-11eb-92c8-6a82b9145bf8.png" width="30%"><br>
+        <img src="https://user-images.githubusercontent.com/46213180/122176926-15d11a00-cec0-11eb-92c8-6a82b9145bf8.png" width="25%"><br>
         3. 이미지 검색
     </span>
 </div>
