@@ -25,23 +25,23 @@ __안현진,배선영,이상현,양소영__
 
 ### 화면 이미지
 1. 메인 화면<br>
-<img src="https://user-images.githubusercontent.com/46213180/122176760-ecb08980-cebf-11eb-9b81-76eaa7297045.png" height="300"><br>
-2. 텍스트 검색
-<img src="https://user-images.githubusercontent.com/46213180/122176882-0b168500-cec0-11eb-834e-7819078d145c.png" height="300"><br>
-3. 이미지 검색
-<img src="https://user-images.githubusercontent.com/46213180/122176926-15d11a00-cec0-11eb-92c8-6a82b9145bf8.png" height="300"><br>
-4. 검색 결과 목록
-<img src="https://user-images.githubusercontent.com/46213180/122176961-1d90be80-cec0-11eb-919f-108090252af2.png" height="300"><br>
-5. 알약 상세 정보
-<img src="https://user-images.githubusercontent.com/46213180/122176992-271a2680-cec0-11eb-8999-888cf2181813.png" height="300"><br>
-6. 즐겨찾기 목록
-<img src="https://user-images.githubusercontent.com/46213180/122177029-2e413480-cec0-11eb-9f02-91ce88fed643.png" height="300"><br>
-7. 알약 간 상호작용 목록
-<img src="https://user-images.githubusercontent.com/46213180/122177076-3d27e700-cec0-11eb-986d-477d89b07a85.png" height="300"><br>
-8. 복용알림 기능
-<img src="https://user-images.githubusercontent.com/46213180/122177120-46b14f00-cec0-11eb-8c80-3f94527b05f5.png" height="300"><br>
-9. 건강관련 카드뉴스
-<img src="https://user-images.githubusercontent.com/46213180/122177159-4fa22080-cec0-11eb-9920-3d7cc52900eb.png" height="300"><br>
+<img src="https://user-images.githubusercontent.com/46213180/122176760-ecb08980-cebf-11eb-9b81-76eaa7297045.png" height="500"><br>
+2. 텍스트 검색<br>
+<img src="https://user-images.githubusercontent.com/46213180/122176882-0b168500-cec0-11eb-834e-7819078d145c.png" height="500"><br>
+3. 이미지 검색<br>
+<img src="https://user-images.githubusercontent.com/46213180/122176926-15d11a00-cec0-11eb-92c8-6a82b9145bf8.png" height="500"><br>
+4. 검색 결과 목록<br>
+<img src="https://user-images.githubusercontent.com/46213180/122176961-1d90be80-cec0-11eb-919f-108090252af2.png" height="500"><br>
+5. 알약 상세 정보<br>
+<img src="https://user-images.githubusercontent.com/46213180/122176992-271a2680-cec0-11eb-8999-888cf2181813.png" height="500"><br>
+6. 즐겨찾기 목록<br>
+<img src="https://user-images.githubusercontent.com/46213180/122177029-2e413480-cec0-11eb-9f02-91ce88fed643.png" height="500"><br>
+7. 알약 간 상호작용 목록<br>
+<img src="https://user-images.githubusercontent.com/46213180/122177076-3d27e700-cec0-11eb-986d-477d89b07a85.png" height="500"><br>
+8. 복용알림 기능<br>
+<img src="https://user-images.githubusercontent.com/46213180/122177120-46b14f00-cec0-11eb-8c80-3f94527b05f5.png" height="500"><br>
+9. 건강관련 카드뉴스<br>
+<img src="https://user-images.githubusercontent.com/46213180/122177159-4fa22080-cec0-11eb-9920-3d7cc52900eb.png" height="500"><br>
 
 ## 데이터
 ----------------------------
