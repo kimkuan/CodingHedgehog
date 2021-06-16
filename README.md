@@ -22,15 +22,27 @@ __안현진,배선영,이상현,양소영__
 #### 문서 관리 : <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white">
 #### 일정 관리 : <img src="https://img.shields.io/badge/trello-0052CC?style=flat-square&logo=trello&logoColor=white">
 
-### 0. 화면 이미지
-![image](https://user-images.githubusercontent.com/46213180/122174504-beca4580-cebd-11eb-98d0-cbc590ef0121.png)
-![image](https://user-images.githubusercontent.com/46213180/122174543-c5f15380-cebd-11eb-913f-bd0c54bc4d3c.png)
-![image](https://user-images.githubusercontent.com/46213180/122174553-c7bb1700-cebd-11eb-98e6-9fb919034be4.png)
-
-
-<img src="https://user-images.githubusercontent.com/48993188/78004974-df1fea00-7375-11ea-85e7-32cc78626c27.jpg" width="30%" height="450"><img src="https://user-images.githubusercontent.com/48993188/78005333-61a8a980-7376-11ea-8711-4f311b5aa713.jpg" width="30%" height="450"><img src="https://user-images.githubusercontent.com/48993188/78005422-80a73b80-7376-11ea-8e7e-06777d5756f7.jpg" width="30%" height="450">
-<img src="https://user-images.githubusercontent.com/48993188/78005462-8f8dee00-7376-11ea-85a4-8f92f909a535.jpg" width="30%" height="450"><img src="https://user-images.githubusercontent.com/48993188/78005498-9d437380-7376-11ea-9823-bc60a3493793.jpg" width="30%" height="450"><img src="https://user-images.githubusercontent.com/48993188/78005522-a7657200-7376-11ea-8957-78549ab9fb71.jpg" width="30%" height="450">
-
+<hr>
+### 화면 이미지
+----------------------------
+1. 메인 화면
+![image](https://user-images.githubusercontent.com/46213180/122176760-ecb08980-cebf-11eb-9b81-76eaa7297045.png)
+2. 텍스트 검색
+![image](https://user-images.githubusercontent.com/46213180/122176882-0b168500-cec0-11eb-834e-7819078d145c.png)
+3. 이미지 검색
+![image](https://user-images.githubusercontent.com/46213180/122176926-15d11a00-cec0-11eb-92c8-6a82b9145bf8.png)
+4. 검색 결과 목록
+![image](https://user-images.githubusercontent.com/46213180/122176961-1d90be80-cec0-11eb-919f-108090252af2.png)
+5. 알약 상세 정보
+![image](https://user-images.githubusercontent.com/46213180/122176992-271a2680-cec0-11eb-8999-888cf2181813.png)
+6. 즐겨찾기 목록
+![image](https://user-images.githubusercontent.com/46213180/122177029-2e413480-cec0-11eb-9f02-91ce88fed643.png)
+7. 알약 간 상호작용 목록
+![image](https://user-images.githubusercontent.com/46213180/122177076-3d27e700-cec0-11eb-986d-477d89b07a85.png)
+8. 복용알림 기능
+![image](https://user-images.githubusercontent.com/46213180/122177120-46b14f00-cec0-11eb-8c80-3f94527b05f5.png)
+9. 건강관련 카드뉴스
+![image](https://user-images.githubusercontent.com/46213180/122177159-4fa22080-cec0-11eb-9920-3d7cc52900eb.png)
 
 ## 데이터
 ----------------------------
