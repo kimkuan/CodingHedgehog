@@ -23,6 +23,11 @@ __안현진,배선영,이상현,양소영__
 #### 일정 관리 : <img src="https://img.shields.io/badge/trello-0052CC?style=flat-square&logo=trello&logoColor=white">
 
 ### 0. 화면 이미지
+![image](https://user-images.githubusercontent.com/46213180/122174504-beca4580-cebd-11eb-98d0-cbc590ef0121.png)
+![image](https://user-images.githubusercontent.com/46213180/122174543-c5f15380-cebd-11eb-913f-bd0c54bc4d3c.png)
+![image](https://user-images.githubusercontent.com/46213180/122174553-c7bb1700-cebd-11eb-98e6-9fb919034be4.png)
+
+
 <img src="https://user-images.githubusercontent.com/48993188/78004974-df1fea00-7375-11ea-85e7-32cc78626c27.jpg" width="30%" height="450"><img src="https://user-images.githubusercontent.com/48993188/78005333-61a8a980-7376-11ea-8711-4f311b5aa713.jpg" width="30%" height="450"><img src="https://user-images.githubusercontent.com/48993188/78005422-80a73b80-7376-11ea-8e7e-06777d5756f7.jpg" width="30%" height="450">
 <img src="https://user-images.githubusercontent.com/48993188/78005462-8f8dee00-7376-11ea-85a4-8f92f909a535.jpg" width="30%" height="450"><img src="https://user-images.githubusercontent.com/48993188/78005498-9d437380-7376-11ea-9823-bc60a3493793.jpg" width="30%" height="450"><img src="https://user-images.githubusercontent.com/48993188/78005522-a7657200-7376-11ea-8957-78549ab9fb71.jpg" width="30%" height="450">
 
@@ -108,4 +113,6 @@ __안현진,배선영,이상현,양소영__
 - 기본 검색 기능(텍스트로) : 알약이름,식별표시,색상,모양 을 선택하면 해당하는 알약리스트를 반환
 
 ### 4. 사진 검색 기능
-
+- 사용자가 카메라 화면에 알약을 배치하면 TTS(Text-to-Speech)를 통해 알림 [객체탐지]
+- 촬영 버튼 클릭 시, 해당 알약의 이미지와 좌표를 서버에 전송
+- 서버에서 이미지 전처리 후 알약의 색상, 모양, 글자를 인식하여 해당하는 알약 리스트를 반환
